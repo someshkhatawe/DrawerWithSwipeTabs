@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "891242174001",
+    "firebase_url": "https://drawerwithswipetabs-38654.firebaseio.com",
+    "project_id": "drawerwithswipetabs-38654",
+    "storage_bucket": "drawerwithswipetabs-38654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891242174001:android:aa19a74fa930fb13",
+        "android_client_info": {
+          "package_name": "com.androidbelieve.drawerwithswipetabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891242174001-o6ifojedgvoeuufjmqagas5m90u5u8sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVY8QCTLN8GSqgcWoSRJ-qHqTLKKlrDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
